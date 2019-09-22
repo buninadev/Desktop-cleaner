@@ -1,0 +1,7 @@
+#this is a small project i've been working on if you are like me, you hate having a lot of pdf/docx on your desktop and you just wanna clean those as fast as possible, well this program is for you. Easy to use:
+1- Press fetch files button
+2-select the files you want to gather in the same folder, move them to the right using ">>" button
+3- arrange and choose the name of the folder
+4-repeat 3 until satisfied or no files are detected on your desktop (you can gather all files in one folder too, just do step 2 and 3 to all the files.
+5- Important! press "finish" button to save your arranged files.
+6- "Reset" button is so you can start over, ONLY WORKS BEFORE PRESSING FINISH
