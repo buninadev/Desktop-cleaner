@@ -1,2 +1,2 @@
 # Desktop-cleaner
-a program that helps you clean your desktop
+A program that helps you clean your desktop
