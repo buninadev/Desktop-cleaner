@@ -8,3 +8,4 @@ Bugs are fixed:
 
 
 Make sure to run program as admin when installed.
+project arranger.zip is outdated (will upload the latest version when the code is cleaned)
